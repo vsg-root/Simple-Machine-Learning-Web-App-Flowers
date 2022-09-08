@@ -1,8 +1,8 @@
 # Simple-Machine-Learning-Web-App-Flowers-
 
-![Image](https://user-images.githubusercontent.com/108759490/188980330-77be4b9a-c500-412e-b8bc-717e2356ea5e.png)
+![Captura de tela de 2022-09-08 08-40-16](https://user-images.githubusercontent.com/108759490/189113431-1c616405-8935-45b6-a985-7da7de96a991.png)
+
+[Gravação de tela de 08-09-2022 08:40:56.webm](https://user-images.githubusercontent.com/108759490/189113455-34a08021-5083-4a92-97e1-4f127616fa94.webm)
 
 
-
-https://user-images.githubusercontent.com/108759490/188980359-8f280589-e9a3-4d31-84ea-1bcdc66458ba.mp4
 
